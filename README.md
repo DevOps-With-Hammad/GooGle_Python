@@ -13,6 +13,13 @@
    - ## Automating at scale where you will learn to deploy configuration management on a fleet of either virtual machine  or physical.
    - ## Last we will bring all this knowledge together into a final project designed to solve a tasks that you might encounter in real-world IT settings.
  
+# Hint >>>>>>>>
+        - This project is prepared and managed through a Jira software project management 
+        - The reaseon for That is practicing and doing a professional work on that great platform
+    -for more info  or talk follow the leading link to the project Dashboard >>>
+    - Jira Link >> https://elarabydevops.atlassian.net/jira/software/projects/DH/boards/2
+# Jira Dash Board >> https://elarabydevops.atlassian.net/jira/software/projects/DH/boards/2
+
 
 # Hey, Here is my Social Links if you need to connect or what ever you need then.
   - Facebook   >>> https://twitter.com/dev_hammad_ops
