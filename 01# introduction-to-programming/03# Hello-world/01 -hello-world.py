@@ -1,0 +1,5 @@
+# first Python (Hello world)
+print("Hello world")
+print("Welcome to python form GOOGLE ")
+print("Try it as much as you can ")
+print("Thanks for being here ")
